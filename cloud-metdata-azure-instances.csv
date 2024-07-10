@@ -584,3 +584,13 @@ cpu-cores-available,cpu-cores-utilized,cpu-manufacturer,cpu-model-name,cpu-tdp,g
 48.00,6,AMD,AMD EPYC™ 74F3V,240.00,0.1666666667,NVIDIA A10,,Standard_NV6ads_A10_v5,55.00
 48.00,72,AMD,AMD EPYC™ 74F3V,240.00,2,NVIDIA A10,,Standard_NV72ads_A10_v5,880.00
 128.00,8,AMD,AMD EPYC™ 7V12,280.00,0.25,AMD Radeon Instinct MI25,,Standard_NV8as_v4,28.00
+64.00,2,Intel,Intel® Xeon® Platinum 8370C,270.00,,,,Standard_E2ds_v5,16.00
+64.00,4,Intel,Intel® Xeon® Platinum 8370C,270.00,,,,Standard_E4ds_v5,32.00
+64.00,8,Intel,Intel® Xeon® Platinum 8370C,270.00,,,,Standard_E8ds_v5,64.00
+64.00,16,Intel,Intel® Xeon® Platinum 8370C,270.00,,,,Standard_E16ds_v5,128.00
+64.00,20,Intel,Intel® Xeon® Platinum 8370C,270.00,,,,Standard_E20ds_v5,160.00
+64.00,32,Intel,Intel® Xeon® Platinum 8370C,270.00,,,,Standard_E32ds_v5,256.00
+64.00,48,Intel,Intel® Xeon® Platinum 8370C,270.00,,,,Standard_E48ds_v5,384.00
+64.00,64,Intel,Intel® Xeon® Platinum 8370C,270.00,,,,Standard_E64ds_v5,512.00
+64.00,96,Intel,Intel® Xeon® Platinum 8370C,270.00,,,,Standard_E96ds_v5,672.00
+64.00,104,Intel,Intel® Xeon® Platinum 8370C,270.00,,,,Standard_E104ids_v5,672.00
