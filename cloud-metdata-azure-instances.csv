@@ -14,7 +14,7 @@ cpu-cores-available,cpu-cores-utilized,cpu-manufacturer,cpu-model-name,cpu-tdp,g
 128.00,16.0,Ampere,Ampere® Altra®,180.00,,,,Standard_B16pls_v2,32.0
 128.00,16.0,Ampere,Ampere® Altra®,180.00,,,,Standard_B16ps_v2,64.0
 64.00,16.0,Intel,Intel® Xeon® Platinum 8370C,270.00,,,,Standard_B16s_v2,64.0
-64.00,1.0,Intel,"Intel® Xeon® Platinum 8370C,Intel® Xeon® Platinum 8272CL,Intel® Xeon® 8171M 2.1 GHz,Intel® Xeon® E5-2673 v4 2.3 GHz,Intel® Xeon® E5-2673 v3 2.4 GHz",270.00,,,,Standard_B1ls2,0.5
+64.00,1.0,Intel,"Intel® Xeon® Platinum 8370C,Intel® Xeon® Platinum 8272CL,Intel® Xeon® 8171M 2.1 GHz,Intel® Xeon® E5-2673 v4 2.3 GHz,Intel® Xeon® E5-2673 v3 2.4 GHz",270.00,,,,Standard_B1ls,0.5
 64.00,1.0,Intel,"Intel® Xeon® Platinum 8370C,Intel® Xeon® Platinum 8272CL,Intel® Xeon® 8171M 2.1 GHz,Intel® Xeon® E5-2673 v4 2.3 GHz,Intel® Xeon® E5-2673 v3 2.4 GHz",270.00,,,,Standard_B1ms,2.0
 64.00,1.0,Intel,"Intel® Xeon® Platinum 8370C,Intel® Xeon® Platinum 8272CL,Intel® Xeon® 8171M 2.1 GHz,Intel® Xeon® E5-2673 v4 2.3 GHz,Intel® Xeon® E5-2673 v3 2.4 GHz",270.00,,,,Standard_B1s,1.0
 64.00,20.0,Intel,"Intel® Xeon® Platinum 8370C,Intel® Xeon® Platinum 8272CL,Intel® Xeon® 8171M 2.1 GHz,Intel® Xeon® E5-2673 v4 2.3 GHz,Intel® Xeon® E5-2673 v3 2.4 GHz",270.00,,,,Standard_B20ms,80.0
