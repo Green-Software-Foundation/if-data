@@ -681,3 +681,13 @@ cpu-cores-available,cpu-cores-utilized,cpu-manufacturer,cpu-model-name,cpu-tdp,g
 128.00,16,AMD,AMD EPYC™ 7763,280.00,,,,Standard_E64-16as_v5,512.00
 128.00,48,AMD,AMD EPYC™ 7763,280.00,,,,Standard_E96-48as_v5,672.00
 128.00,24,AMD,AMD EPYC™ 7763,280.00,,,,Standard_E96-24as_v5,672.00
+64.00,1,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F1,16.0
+64.00,2,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F2,16.0
+64.00,4,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F4,16.0
+64.00,8,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F8,16.0
+64.00,16,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F16,16.0
+64.00,1,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F1s,16.0
+64.00,2,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F2s,16.0
+64.00,4,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F4s,16.0
+64.00,8,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F8s,16.0
+64.00,16,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F16s,16.0
