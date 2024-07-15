@@ -691,3 +691,4 @@ cpu-cores-available,cpu-cores-utilized,cpu-manufacturer,cpu-model-name,cpu-tdp,g
 64.00,4,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F4s,16.0
 64.00,8,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F8s,16.0
 64.00,16,Intel,"Intel® Xeon® E5-2673 v3 2.4 GHz",105.00,,,,Standard_F16s,16.0
+52.00,2,Intel,Intel® Xeon® Platinum 8370C,270.00,,,,Standard_E64bs_v5,512.00
