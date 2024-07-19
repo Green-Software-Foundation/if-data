@@ -708,6 +708,6 @@ cpu-cores-available,cpu-cores-utilized,cpu-manufacturer,cpu-model-name,cpu-tdp,g
 64.00,8,Intel,"Intel® Xeon® Platinum 8370C,Intel® Xeon® Platinum 8272CL,Intel® Xeon® 8171M 2.1 GHz,Intel® Xeon® E5-2673 v4 2.3 GHz,Intel® Xeon® E5-2673 v3 2.4 GHz",270.00,,,,Standard_DS14-8_v2,112.00
 64.00,4,Intel,"Intel® Xeon® Platinum 8370C,Intel® Xeon® Platinum 8272CL,Intel® Xeon® 8171M 2.1 GHz,Intel® Xeon® E5-2673 v4 2.3 GHz,Intel® Xeon® E5-2673 v3 2.4 GHz",270.00,,,,Standard_DS14-4_v2,112.00
 64.00,4,AMD,Intel® Xeon® processor E5 family,80.00,,,,Standard_L4s,32.00
-64.00,8,AMD,Intel® Xeon® processor E5 family,80.00,,,,Standard_L8s_v2,64.00
-64.00,16,AMD,Intel® Xeon® processor E5 family,80.00,,,,Standard_L16s_v2,128.00
-64.00,32,AMD,Intel® Xeon® processor E5 family,80.00,,,,Standard_L32s_v2,256.00
+64.00,8,AMD,Intel® Xeon® processor E5 family,80.00,,,,Standard_L8s,64.00
+64.00,16,AMD,Intel® Xeon® processor E5 family,80.00,,,,Standard_L16s,128.00
+64.00,32,AMD,Intel® Xeon® processor E5 family,80.00,,,,Standard_L32s,256.00
